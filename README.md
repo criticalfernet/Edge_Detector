@@ -135,6 +135,7 @@ python process_video_cupy.py --input input.mp4 --output output.mp4
 ## Video Demonstrations
 
 ![Demo GIF](assets/infinity_war_out.gif)
+
 ![Demo GIF](assets/spiderverse_out.gif)
 
 ---
